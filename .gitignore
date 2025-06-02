@@ -1,0 +1,57 @@
+## Build output
+bin/
+obj/
+
+## User-specific files
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+## Rider and VS Code folders
+.vscode/
+.idea/
+
+## ASP.NET Secrets
+appsettings.Development.json
+secrets.json
+
+## Local DBs
+*.db
+*.mdf
+*.ldf
+
+## Logs
+*.log
+
+## Published Web Output
+wwwroot/build/
+wwwroot/dist/
+publish/
+dist/
+
+## Dependency cache
+node_modules/
+packages/
+.nuget/
+
+## Entity Framework Migrations cache
+Migrations/
+
+## System files
+Thumbs.db
+Desktop.ini
+
+## Environment files
+.env
+.env.*
+
+## OS-generated
+.DS_Store
+*.swp
+*.bak
+
+## Backup & temp files
+*.tmp
+*.bak
+*.old
