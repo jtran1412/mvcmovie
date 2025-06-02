@@ -1,1 +1,1 @@
-This is my first asp.net mvc project. It is a crud app with a search bar for movie names.
+This is my first asp.net mvc project. It is a crud movie catalog app with a search bar.
